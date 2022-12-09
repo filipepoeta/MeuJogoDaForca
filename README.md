@@ -1,5 +1,5 @@
 # Meu Jogo da Forca
-Projeto final do módulo de Lógica de programção Be The Next Ada - Sinqia
+Projeto final do módulo de Lógica de programação Be The Next Ada - Sinqia
 
 ## Participantes:
 * Bárbara Ferreira dos Santos
