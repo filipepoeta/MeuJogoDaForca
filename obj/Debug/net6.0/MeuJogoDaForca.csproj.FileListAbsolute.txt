@@ -1,0 +1,15 @@
+C:\Projetos\BeTheNext\MeuJogoDaForca\bin\Debug\net6.0\MeuJogoDaForca.exe
+C:\Projetos\BeTheNext\MeuJogoDaForca\bin\Debug\net6.0\MeuJogoDaForca.deps.json
+C:\Projetos\BeTheNext\MeuJogoDaForca\bin\Debug\net6.0\MeuJogoDaForca.runtimeconfig.json
+C:\Projetos\BeTheNext\MeuJogoDaForca\bin\Debug\net6.0\MeuJogoDaForca.dll
+C:\Projetos\BeTheNext\MeuJogoDaForca\bin\Debug\net6.0\MeuJogoDaForca.pdb
+C:\Projetos\BeTheNext\MeuJogoDaForca\obj\Debug\net6.0\MeuJogoDaForca.csproj.AssemblyReference.cache
+C:\Projetos\BeTheNext\MeuJogoDaForca\obj\Debug\net6.0\MeuJogoDaForca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BeTheNext\MeuJogoDaForca\obj\Debug\net6.0\MeuJogoDaForca.AssemblyInfoInputs.cache
+C:\Projetos\BeTheNext\MeuJogoDaForca\obj\Debug\net6.0\MeuJogoDaForca.AssemblyInfo.cs
+C:\Projetos\BeTheNext\MeuJogoDaForca\obj\Debug\net6.0\MeuJogoDaForca.csproj.CoreCompileInputs.cache
+C:\Projetos\BeTheNext\MeuJogoDaForca\obj\Debug\net6.0\MeuJogoDaForca.dll
+C:\Projetos\BeTheNext\MeuJogoDaForca\obj\Debug\net6.0\refint\MeuJogoDaForca.dll
+C:\Projetos\BeTheNext\MeuJogoDaForca\obj\Debug\net6.0\MeuJogoDaForca.pdb
+C:\Projetos\BeTheNext\MeuJogoDaForca\obj\Debug\net6.0\MeuJogoDaForca.genruntimeconfig.cache
+C:\Projetos\BeTheNext\MeuJogoDaForca\obj\Debug\net6.0\ref\MeuJogoDaForca.dll
